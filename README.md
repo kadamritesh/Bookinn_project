@@ -30,6 +30,8 @@ This project is part of my final year university work and demonstrates my expert
 - HTML5
 - CSS3
 - JavaScript (for interactivity)
+- Bootstrap 5
+- ReactJS
 
 ### **Backend**
 - ASP.NET Framework (C#)
